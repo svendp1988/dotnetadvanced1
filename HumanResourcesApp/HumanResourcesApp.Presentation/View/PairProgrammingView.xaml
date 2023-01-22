@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="HumanResourcesApp.Presentation.View.PairProgrammingView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:HumanResourcesApp.Presentation.View"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="8">
+            <Label Content="Team id"></Label>
+            <TextBox x:Name="TeamsTextBox" Text="{Binding SelectedTeamId, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="200" Margin="12 0 0 0" ></TextBox>
+        </StackPanel>
+        <Button x:Name="generatePairsButton" Margin="8" Width="200" HorizontalAlignment="Left" Command="{Binding GenerateCommand}">
+            Generate pair programming pairs
+        </Button>
+        <ListBox x:Name="PairsListBox" Margin="8" ItemsSource="{Binding ProgrammingPairs}" SelectedItem="{Binding SelectedPair, Mode=TwoWay}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path=Driver.FirstName}" FontWeight="Bold"></TextBlock>
+                        <TextBlock Text=" "></TextBlock>
+                        <TextBlock Text="{Binding Path=Driver.LastName}" FontWeight="Bold"></TextBlock>
+                        <TextBlock Text=" - "></TextBlock>
+                        <TextBlock Text="{Binding Path=Navigator.FirstName}"></TextBlock>
+                        <TextBlock Text=" "></TextBlock>
+                        <TextBlock Text="{Binding Path=Navigator.LastName}"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button x:Name="switchButton" Margin="8" Width="200" HorizontalAlignment="Left" Command="{Binding SwitchCommand}" Visibility="{Binding IsPairSelected}">
+            Switch selected pair
+        </Button>
+    </StackPanel>
+</UserControl>
