@@ -1,0 +1,54 @@
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.exe
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.deps.json
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.runtimeconfig.json
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.dll
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.pdb
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CopyComplete
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.dll
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\refint\Exercise1.dll
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.pdb
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.genruntimeconfig.cache
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\ref\Exercise1.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.exe
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.deps.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.runtimeconfig.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CopyComplete
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\refint\Exercise1.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.genruntimeconfig.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\ref\Exercise1.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.exe
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.deps.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.runtimeconfig.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Exercise1.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CopyComplete
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\refint\Exercise1.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\Exercise1.genruntimeconfig.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter2_LanguageFeatures\Exercise1\obj\Debug\net6.0\ref\Exercise1.dll

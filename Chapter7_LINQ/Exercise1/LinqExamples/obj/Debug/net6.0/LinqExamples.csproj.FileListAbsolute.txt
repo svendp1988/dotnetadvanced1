@@ -1,0 +1,36 @@
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\bin\Debug\net6.0\LinqExamples.deps.json
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\bin\Debug\net6.0\LinqExamples.dll
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\bin\Debug\net6.0\LinqExamples.pdb
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.dll
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\refint\LinqExamples.dll
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.pdb
+C:\Users\11900435\Cursussen\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\ref\LinqExamples.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\bin\Debug\net6.0\LinqExamples.deps.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\bin\Debug\net6.0\LinqExamples.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\bin\Debug\net6.0\LinqExamples.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\refint\LinqExamples.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\Guts-DotNetAdvanced-22-23\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\ref\LinqExamples.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\bin\Debug\net6.0\LinqExamples.deps.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\bin\Debug\net6.0\LinqExamples.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\bin\Debug\net6.0\LinqExamples.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\refint\LinqExamples.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\LinqExamples.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\Chapter7_LINQ\Exercise1\LinqExamples\obj\Debug\net6.0\ref\LinqExamples.dll

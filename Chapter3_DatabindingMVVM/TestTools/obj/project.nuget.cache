@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YwL8RoQSABXyqV1QpgIIz2Ysr19zTZe+09Zt6S3KgCuiPt7/XGyBtd/eJWQ6UuRMnM1FtRlY7R9F0V/ate1dAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\Chapter3_DatabindingMVVM\\TestTools\\TestTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11900435\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\11900435\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\11900435\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
