@@ -28,7 +28,10 @@ namespace ShoppingListApp.Presentation
 
             // var mainWindow = _serviceProvider.GetService<MainWindow>();
             // mainWindow?.Show();
-            
+            IShoppingListRepository repository = new ShoppingListDbRepository();
+            var mainWindow = new MainWindow(repository);
+            mainWindow?.Show();
+
             //TODO: create an instance of a class that implements IShoppingListRepository
             //TODO: create an instance of MainWindow
             //TODO: show the instance of MainWindow

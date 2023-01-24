@@ -6,17 +6,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
         <Grid>
-                <ComboBox x:Name="ShoppingListComboBox" Margin="10" />
-                <Border BorderBrush="Green" BorderThickness="5" CornerRadius="10" Margin="10" Padding="10">
+                <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition/>
+                </Grid.RowDefinitions>
+                <ComboBox x:Name="ShoppingListComboBox" Margin="10" ItemsSource="{Binding SummaryDtos}" SelectedItem="{Binding SelectedSummary, Mode=TwoWay}"/>
+                <Border Grid.Row="1" BorderBrush="Green" BorderThickness="5" CornerRadius="10" Margin="10" Padding="10">
                         <StackPanel>
-                                <TextBlock Margin="0 0 0 5"></TextBlock>
-                                <ListView>
+                                <TextBlock Margin="0 0 0 5" Text="{Binding ShoppingList.Title}"></TextBlock>
+                                <ListView ItemsSource="{Binding ShoppingList.Items }">
                                         <ListView.ItemTemplate>
                                                 <DataTemplate>
                                                         <StackPanel Orientation="Horizontal">
-                                                                <TextBlock></TextBlock>
+                                                                <TextBlock Text="{Binding Text}"></TextBlock>
                                                                 <TextBlock Text=" - Shop: "></TextBlock>
-                                                                <TextBlock></TextBlock>
+                                                                <TextBlock Text="{Binding Shop}"></TextBlock>
                                                         </StackPanel>
                                                 </DataTemplate>
                                         </ListView.ItemTemplate>

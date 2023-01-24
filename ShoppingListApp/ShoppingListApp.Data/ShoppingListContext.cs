@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.Extensions.Logging;
 using ShoppingListApp.Domain;
 
@@ -28,7 +27,7 @@ internal class ShoppingListContext : DbContext
             new() {Id = 3, Name = "Delhaize"}
         };
     }
-
+    
     private List<ShoppingList> GetShoppingListSeedData()
     {
         return new List<ShoppingList>
@@ -45,7 +44,7 @@ internal class ShoppingListContext : DbContext
             }
         };
     }
-
+    
     private List<ShoppingListItem> GetShoppingListItemSeedData()
     {
         return new List<ShoppingListItem>
@@ -94,6 +93,4 @@ internal class ShoppingListContext : DbContext
         modelBuilder.Entity<Shop>().HasData(GetShopSeedData());
         modelBuilder.Entity<ShoppingList>().HasData(GetShoppingListSeedData());
     }
-    
-    
 }

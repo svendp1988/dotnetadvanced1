@@ -8,7 +8,7 @@ namespace ShoppingListApp.Data;
 internal class ShoppingListDbRepository : IShoppingListRepository
 {
     private readonly ShoppingListContext _context;
-
+    
     public ShoppingListDbRepository()
     {
         _context = new ShoppingListContext();
