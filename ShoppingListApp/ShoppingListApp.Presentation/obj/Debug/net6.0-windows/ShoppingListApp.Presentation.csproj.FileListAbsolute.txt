@@ -172,3 +172,5 @@ C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListA
 C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Presentation\obj\Debug\net6.0-windows\ShoppingListApp.Presentation.pdb
 C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Presentation\obj\Debug\net6.0-windows\ShoppingListApp.Presentation.genruntimeconfig.cache
 C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Presentation\obj\Debug\net6.0-windows\ref\ShoppingListApp.Presentation.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Presentation\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Presentation\obj\Debug\net6.0-windows\ShoppingListApp.Presentation_MarkupCompile.lref

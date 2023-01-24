@@ -7,6 +7,7 @@ namespace ShoppingListApp.Data;
 internal class ShoppingListContext : DbContext
 {
     public DbSet<ShoppingList> ShoppingLists => Set<ShoppingList>();
+    public DbSet<Shop> Shops => Set<Shop>();
 
     private static readonly ILoggerFactory DebugLoggerFactory
         = LoggerFactory.Create(builder =>

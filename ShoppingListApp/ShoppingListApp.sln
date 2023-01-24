@@ -11,6 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingListApp.Business", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingListApp.Data", "ShoppingListApp.Data\ShoppingListApp.Data.csproj", "{2DF1C2CE-D27F-4E8B-A698-7C2132F6C841}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListApp.Presentation.Tests", "ShoppingListApp.Presentation.Tests\ShoppingListApp.Presentation.Tests.csproj", "{B0A987EF-2E79-49B6-8698-4F9F64D7B6FC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{276D85E6-0985-43A0-BCAC-08DF8DDC43D4} = {276D85E6-0985-43A0-BCAC-08DF8DDC43D4}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +38,10 @@ Global
 		{2DF1C2CE-D27F-4E8B-A698-7C2132F6C841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DF1C2CE-D27F-4E8B-A698-7C2132F6C841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DF1C2CE-D27F-4E8B-A698-7C2132F6C841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A987EF-2E79-49B6-8698-4F9F64D7B6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A987EF-2E79-49B6-8698-4F9F64D7B6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A987EF-2E79-49B6-8698-4F9F64D7B6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A987EF-2E79-49B6-8698-4F9F64D7B6FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

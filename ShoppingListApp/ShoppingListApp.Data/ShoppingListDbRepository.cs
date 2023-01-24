@@ -8,7 +8,7 @@ namespace ShoppingListApp.Data;
 internal class ShoppingListDbRepository : IShoppingListRepository
 {
     private readonly ShoppingListContext _context;
-    
+
     public ShoppingListDbRepository()
     {
         _context = new ShoppingListContext();
@@ -27,5 +27,10 @@ internal class ShoppingListDbRepository : IShoppingListRepository
     {
         return _context.ShoppingLists.Include(list => list.Items).Where(l => l.Id.Equals(id))
             .Select(l => (ShoppingList?) l).FirstOrDefault();
+    }
+
+    public Shop? GetShopById(int? id)
+    {
+        return id == null ? null : _context.Shops.Where(s => s.Id.Equals(id)).Select(s => (Shop?) s).FirstOrDefault();
     }
 }

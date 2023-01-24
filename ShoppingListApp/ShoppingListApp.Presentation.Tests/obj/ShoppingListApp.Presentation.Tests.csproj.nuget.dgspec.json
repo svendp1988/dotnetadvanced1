@@ -1,0 +1,341 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation.Tests\\ShoppingListApp.Presentation.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Business\\ShoppingListApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Business\\ShoppingListApp.Business.csproj",
+        "projectName": "ShoppingListApp.Business",
+        "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Business\\ShoppingListApp.Business.csproj",
+        "packagesPath": "C:\\Users\\11900435\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\11900435\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Domain\\ShoppingListApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Domain\\ShoppingListApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Data\\ShoppingListApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Data\\ShoppingListApp.Data.csproj",
+        "projectName": "ShoppingListApp.Data",
+        "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Data\\ShoppingListApp.Data.csproj",
+        "packagesPath": "C:\\Users\\11900435\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\11900435\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Business\\ShoppingListApp.Business.csproj": {
+                "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Business\\ShoppingListApp.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Domain\\ShoppingListApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Domain\\ShoppingListApp.Domain.csproj",
+        "projectName": "ShoppingListApp.Domain",
+        "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Domain\\ShoppingListApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\11900435\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\11900435\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation.Tests\\ShoppingListApp.Presentation.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation.Tests\\ShoppingListApp.Presentation.Tests.csproj",
+        "projectName": "ShoppingListApp.Presentation.Tests",
+        "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation.Tests\\ShoppingListApp.Presentation.Tests.csproj",
+        "packagesPath": "C:\\Users\\11900435\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\11900435\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation\\ShoppingListApp.Presentation.csproj": {
+                "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation\\ShoppingListApp.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation\\ShoppingListApp.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation\\ShoppingListApp.Presentation.csproj",
+        "projectName": "ShoppingListApp.Presentation",
+        "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation\\ShoppingListApp.Presentation.csproj",
+        "packagesPath": "C:\\Users\\11900435\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\11900435\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Business\\ShoppingListApp.Business.csproj": {
+                "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Business\\ShoppingListApp.Business.csproj"
+              },
+              "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Data\\ShoppingListApp.Data.csproj": {
+                "projectPath": "C:\\Users\\11900435\\Cursussen\\2TIW\\.NET Advanced 1\\Working Solutions\\ShoppingListApp\\ShoppingListApp.Data\\ShoppingListApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
