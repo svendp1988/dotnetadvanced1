@@ -86,111 +86,93 @@ namespace ShoppingListApp.Data.Migrations
                         });
                 });
 
-            modelBuilder.Entity("ShoppingListApp.Domain.ShoppingListItem", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<int>("Index")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("ShopId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("ShoppingListId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Text")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("ShopId");
-
-                    b.HasIndex("ShoppingListId");
-
-                    b.ToTable("ShoppingListItems", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Index = 0,
-                            ShopId = 1,
-                            ShoppingListId = 1,
-                            Text = "Carrots"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Index = 1,
-                            ShoppingListId = 1,
-                            Text = "Candy"
-                        },
-                        new
-                        {
-                            Id = 3,
-                            Index = 2,
-                            ShopId = 3,
-                            ShoppingListId = 1,
-                            Text = "Water"
-                        },
-                        new
-                        {
-                            Id = 4,
-                            Index = 0,
-                            ShoppingListId = 2,
-                            Text = "Apples"
-                        },
-                        new
-                        {
-                            Id = 5,
-                            Index = 1,
-                            ShopId = 2,
-                            ShoppingListId = 2,
-                            Text = "Potatoes"
-                        },
-                        new
-                        {
-                            Id = 6,
-                            Index = 2,
-                            ShopId = 2,
-                            ShoppingListId = 2,
-                            Text = "Chicken"
-                        },
-                        new
-                        {
-                            Id = 7,
-                            Index = 3,
-                            ShopId = 2,
-                            ShoppingListId = 2,
-                            Text = "Cheese"
-                        });
-                });
-
-            modelBuilder.Entity("ShoppingListApp.Domain.ShoppingListItem", b =>
-                {
-                    b.HasOne("ShoppingListApp.Domain.Shop", "Shop")
-                        .WithMany()
-                        .HasForeignKey("ShopId");
-
-                    b.HasOne("ShoppingListApp.Domain.ShoppingList", "ShoppingList")
-                        .WithMany("Items")
-                        .HasForeignKey("ShoppingListId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Shop");
-
-                    b.Navigation("ShoppingList");
-                });
-
             modelBuilder.Entity("ShoppingListApp.Domain.ShoppingList", b =>
                 {
+                    b.OwnsMany("ShoppingListApp.Domain.ShoppingListItem", "Items", b1 =>
+                        {
+                            b1.Property<int>("ShoppingListId")
+                                .HasColumnType("int");
+
+                            b1.Property<int>("Index")
+                                .ValueGeneratedOnAdd()
+                                .HasColumnType("int");
+
+                            SqlServerPropertyBuilderExtensions.UseIdentityColumn(b1.Property<int>("Index"), 1L, 1);
+
+                            b1.Property<int?>("ShopId")
+                                .HasColumnType("int");
+
+                            b1.Property<string>("Text")
+                                .IsRequired()
+                                .HasColumnType("nvarchar(max)");
+
+                            b1.HasKey("ShoppingListId", "Index");
+
+                            b1.HasIndex("ShopId");
+
+                            b1.ToTable("ShoppingListItems", (string)null);
+
+                            b1.HasOne("ShoppingListApp.Domain.Shop", "Shop")
+                                .WithMany()
+                                .HasForeignKey("ShopId");
+
+                            b1.WithOwner("ShoppingList")
+                                .HasForeignKey("ShoppingListId");
+
+                            b1.Navigation("Shop");
+
+                            b1.Navigation("ShoppingList");
+
+                            b1.HasData(
+                                new
+                                {
+                                    ShoppingListId = 1,
+                                    Index = 1,
+                                    ShopId = 1,
+                                    Text = "Carrots"
+                                },
+                                new
+                                {
+                                    ShoppingListId = 1,
+                                    Index = 2,
+                                    Text = "Candy"
+                                },
+                                new
+                                {
+                                    ShoppingListId = 1,
+                                    Index = 3,
+                                    ShopId = 3,
+                                    Text = "Water"
+                                },
+                                new
+                                {
+                                    ShoppingListId = 2,
+                                    Index = 1,
+                                    Text = "Apples"
+                                },
+                                new
+                                {
+                                    ShoppingListId = 2,
+                                    Index = 2,
+                                    ShopId = 2,
+                                    Text = "Potatoes"
+                                },
+                                new
+                                {
+                                    ShoppingListId = 2,
+                                    Index = 3,
+                                    ShopId = 2,
+                                    Text = "Chicken"
+                                },
+                                new
+                                {
+                                    ShoppingListId = 2,
+                                    Index = 4,
+                                    ShopId = 2,
+                                    Text = "Cheese"
+                                });
+                        });
+
                     b.Navigation("Items");
                 });
 #pragma warning restore 612, 618

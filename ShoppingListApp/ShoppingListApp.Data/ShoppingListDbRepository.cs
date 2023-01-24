@@ -1,4 +1,5 @@
-﻿using ShoppingListApp.Business;
+﻿using Microsoft.EntityFrameworkCore;
+using ShoppingListApp.Business;
 using ShoppingListApp.Business.Contracts;
 using ShoppingListApp.Domain;
 
@@ -7,7 +8,7 @@ namespace ShoppingListApp.Data;
 internal class ShoppingListDbRepository : IShoppingListRepository
 {
     private readonly ShoppingListContext _context;
-    
+
     public ShoppingListDbRepository()
     {
         _context = new ShoppingListContext();
@@ -24,6 +25,7 @@ internal class ShoppingListDbRepository : IShoppingListRepository
 
     public ShoppingList? GetById(int id)
     {
-        return _context.ShoppingLists.FirstOrDefault(list => list != null && list.Id.Equals(id), null);
+        return _context.ShoppingLists.Include(list => list.Items).Where(l => l.Id.Equals(id))
+            .Select(l => (ShoppingList?) l).FirstOrDefault();
     }
 }

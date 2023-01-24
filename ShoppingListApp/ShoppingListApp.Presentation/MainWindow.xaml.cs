@@ -9,6 +9,11 @@ namespace ShoppingListApp.Presentation
         public MainWindow(IShoppingListRepository shoppingListRepository)
         {
             InitializeComponent();
+            var shoppingListSummaryDtos = shoppingListRepository.GetAll();
+            var shoppingList = shoppingListRepository.GetById(1);
+            var byId = shoppingListRepository.GetById(5);
+
+            var shoppingListItems = shoppingList.Items;
         }
     }
 }

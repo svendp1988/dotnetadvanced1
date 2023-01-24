@@ -1,10 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace ShoppingListApp.Domain;
+﻿namespace ShoppingListApp.Domain;
 
 public class ShoppingListItem
 {
-    public int Id { get; set; }
     public ShoppingList ShoppingList { get; set; }
     public int ShoppingListId { get; set; }
     public int Index { get; set; }

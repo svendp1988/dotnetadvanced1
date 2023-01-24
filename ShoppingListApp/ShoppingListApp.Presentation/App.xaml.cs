@@ -1,5 +1,6 @@
 ﻿using System.Windows;
 using Microsoft.Extensions.DependencyInjection;
+using ShoppingListApp.Business.Contracts;
 using ShoppingListApp.Data;
 
 namespace ShoppingListApp.Presentation
@@ -31,6 +32,8 @@ namespace ShoppingListApp.Presentation
             //TODO: create an instance of a class that implements IShoppingListRepository
             //TODO: create an instance of MainWindow
             //TODO: show the instance of MainWindow
+            MainWindow window = new MainWindow(new ShoppingListDbRepository());
+            window.Show();
         }
     }
 }
