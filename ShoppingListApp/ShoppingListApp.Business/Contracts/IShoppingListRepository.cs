@@ -15,6 +15,4 @@ public interface IShoppingListRepository
     /// </summary>
     /// <param name="id">Identifier of the shopping list</param>
     ShoppingList? GetById(int id);
-
-    Shop? GetShopById(int? id);
 }

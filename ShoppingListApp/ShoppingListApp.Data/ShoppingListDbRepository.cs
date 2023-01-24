@@ -25,12 +25,8 @@ internal class ShoppingListDbRepository : IShoppingListRepository
 
     public ShoppingList? GetById(int id)
     {
-        return _context.ShoppingLists.Include(list => list.Items).Where(l => l.Id.Equals(id))
+        return _context.ShoppingLists.Include(list => list.Items).ThenInclude(item => item.Shop)
+            .Where(l => l.Id.Equals(id))
             .Select(l => (ShoppingList?) l).FirstOrDefault();
-    }
-
-    public Shop? GetShopById(int? id)
-    {
-        return id == null ? null : _context.Shops.Where(s => s.Id.Equals(id)).Select(s => (Shop?) s).FirstOrDefault();
     }
 }

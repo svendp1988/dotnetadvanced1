@@ -61,10 +61,6 @@ namespace ShoppingListApp.Presentation
             set
             {
                 _shoppingList = value;
-                foreach (var item in _shoppingList.Items)
-                {
-                    item.Shop = _repository.GetShopById(item.ShopId);
-                }
                 OnPropertyChanged();
             }
         }
