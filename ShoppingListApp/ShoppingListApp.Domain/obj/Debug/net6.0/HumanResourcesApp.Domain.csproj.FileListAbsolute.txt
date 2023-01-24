@@ -1,0 +1,12 @@
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\bin\Debug\net6.0\HumanResourcesApp.Domain.deps.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\bin\Debug\net6.0\HumanResourcesApp.Domain.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\bin\Debug\net6.0\HumanResourcesApp.Domain.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\obj\Debug\net6.0\HumanResourcesApp.Domain.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\obj\Debug\net6.0\HumanResourcesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\obj\Debug\net6.0\HumanResourcesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\obj\Debug\net6.0\HumanResourcesApp.Domain.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\obj\Debug\net6.0\HumanResourcesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\obj\Debug\net6.0\HumanResourcesApp.Domain.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\obj\Debug\net6.0\refint\HumanResourcesApp.Domain.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\obj\Debug\net6.0\HumanResourcesApp.Domain.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Domain\obj\Debug\net6.0\ref\HumanResourcesApp.Domain.dll
