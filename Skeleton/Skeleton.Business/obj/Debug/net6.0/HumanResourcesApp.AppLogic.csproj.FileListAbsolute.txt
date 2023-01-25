@@ -1,0 +1,15 @@
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\bin\Debug\net6.0\HumanResourcesApp.AppLogic.deps.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\bin\Debug\net6.0\HumanResourcesApp.AppLogic.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\bin\Debug\net6.0\HumanResourcesApp.AppLogic.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\bin\Debug\net6.0\HumanResourcesApp.Domain.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\bin\Debug\net6.0\HumanResourcesApp.Domain.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\HumanResourcesApp.AppLogic.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\HumanResourcesApp.AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\HumanResourcesApp.AppLogic.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\HumanResourcesApp.AppLogic.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\HumanResourcesApp.AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\HumanResourcesApp.AppLogic.csproj.CopyComplete
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\HumanResourcesApp.AppLogic.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\refint\HumanResourcesApp.AppLogic.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\HumanResourcesApp.AppLogic.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.AppLogic\obj\Debug\net6.0\ref\HumanResourcesApp.AppLogic.dll

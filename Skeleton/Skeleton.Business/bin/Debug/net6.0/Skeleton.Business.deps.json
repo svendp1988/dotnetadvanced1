@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Skeleton.Business/1.0.0": {
+        "dependencies": {
+          "Skeleton.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Skeleton.Business.dll": {}
+        }
+      },
+      "Skeleton.Domain/1.0.0": {
+        "runtime": {
+          "Skeleton.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skeleton.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Skeleton.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

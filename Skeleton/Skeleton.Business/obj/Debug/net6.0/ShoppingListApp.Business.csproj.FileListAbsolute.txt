@@ -1,0 +1,45 @@
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Business.deps.json
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Business.dll
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Business.pdb
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Domain.dll
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Domain.pdb
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.csproj.AssemblyReference.cache
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.AssemblyInfoInputs.cache
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.AssemblyInfo.cs
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.csproj.CopyComplete
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.dll
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\refint\ShoppingListApp.Business.dll
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.pdb
+C:\Users\11900435\Desktop\dotnetadvanced1\HumanResourcesApp\ShoppingListApp.Business\obj\Debug\net6.0\ref\ShoppingListApp.Business.dll
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Business.deps.json
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Business.dll
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Business.pdb
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Domain.dll
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Domain.pdb
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.csproj.AssemblyReference.cache
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.AssemblyInfoInputs.cache
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.AssemblyInfo.cs
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.csproj.CopyComplete
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.dll
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\refint\ShoppingListApp.Business.dll
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.pdb
+C:\Users\11900435\Desktop\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ref\ShoppingListApp.Business.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Business.deps.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Business.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Business.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Domain.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\bin\Debug\net6.0\ShoppingListApp.Domain.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.csproj.CopyComplete
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\refint\ShoppingListApp.Business.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ShoppingListApp.Business.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Working Solutions\ShoppingListApp\ShoppingListApp.Business\obj\Debug\net6.0\ref\ShoppingListApp.Business.dll

@@ -1,0 +1,17 @@
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\bin\Debug\net6.0\HumanResourcesApp.Infrastructure.deps.json
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\bin\Debug\net6.0\HumanResourcesApp.Infrastructure.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\bin\Debug\net6.0\HumanResourcesApp.Infrastructure.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\bin\Debug\net6.0\HumanResourcesApp.AppLogic.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\bin\Debug\net6.0\HumanResourcesApp.Domain.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\bin\Debug\net6.0\HumanResourcesApp.AppLogic.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\bin\Debug\net6.0\HumanResourcesApp.Domain.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\HumanResourcesApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\HumanResourcesApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\HumanResourcesApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\HumanResourcesApp.Infrastructure.AssemblyInfo.cs
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\HumanResourcesApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\HumanResourcesApp.Infrastructure.csproj.CopyComplete
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\HumanResourcesApp.Infrastructure.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\refint\HumanResourcesApp.Infrastructure.dll
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\HumanResourcesApp.Infrastructure.pdb
+C:\Users\11900435\Cursussen\2TIW\.NET Advanced 1\Exercises\HumanResourcesApp\HumanResourcesApp.Infrastructure\obj\Debug\net6.0\ref\HumanResourcesApp.Infrastructure.dll
